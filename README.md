@@ -3,5 +3,4 @@
 - 🌱 I’m currently learning python
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: My friend Mario is weird
-- 
 
